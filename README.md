@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### I'm a software engineer who cares about correctness, performance, and simple designs. 
+### Most of the time I'm building systems, optimizing pipelines, and writing C++.
+
 ![](https://github.com/Hastws/hastws/blob/output/github-contribution-grid-snake.svg)
+
