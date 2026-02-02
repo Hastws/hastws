@@ -18,5 +18,9 @@ Here are some ideas to get you started:
 ### I'm a software engineer who cares about correctness, performance, and simple designs. 
 ### Most of the time I'm building systems, optimizing pipelines, and writing C++.
 
-![](https://github.com/Hastws/hastws/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hastws/hastws/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hastws/hastws/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Hastws/hastws/output/github-contribution-grid-snake.svg" />
+</picture>
 
